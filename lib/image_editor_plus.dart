@@ -27,6 +27,8 @@ import 'package:screenshot/screenshot.dart';
 
 import 'modules/colors_picker.dart';
 
+export './data/image_item.dart';
+
 late Size viewportSize;
 double viewportRatio = 1;
 
